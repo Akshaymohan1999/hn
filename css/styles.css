@@ -1,0 +1,93 @@
+body{
+
+}
+.orangebar{
+  background-color: #ff6600;
+  height: 25px;
+  width:100%;
+}
+.orangeimg{
+  height:20px;
+  width:20px;
+}
+.center {
+margin: auto;
+width: 80%;
+padding: 10px;
+}
+.hackertext{
+  font-size: 13pt;
+
+}
+a:link, a:visited {
+
+  color:black ;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+}
+.new{
+  font-size: 11pt;
+  font-weight: lighter;
+  font-family: 'Merriweather', sans-serif;
+}
+.past{
+  font-size: 11pt;
+  font-weight: lighter;
+  font-family: 'Merriweather', sans-serif;
+}
+.comments{
+  font-size: 11pt;
+  font-weight: lighter;
+  font-family: 'Merriweather', sans-serif;
+}
+.ask{
+  font-size: 11pt;
+  font-weight: lighter;
+  font-family: 'Merriweather', sans-serif;
+}
+.show{
+  font-size: 11pt;
+  font-weight: lighter;
+  font-family: 'Merriweather', sans-serif;
+}
+.jobs{
+  font-size: 11pt;
+  font-weight: lighter;
+  font-family: 'Merriweather', sans-serif;
+}
+.submit{
+  font-size: 11pt;
+  font-weight: lighter;
+  font-family: 'Merriweather', sans-serif;
+}
+.login{
+  font-size: 11pt;
+  font-weight: lighter;
+  font-family: 'Merriweather', sans-serif;
+  right: 20px;
+}
+.table{
+    background-color: #f6f6ef;
+    font-size: 11pt;
+    font-weight: lighter;
+    font-family: 'Merriweather', sans-serif;
+}
+.border{
+  background-color: #ff6600;
+}
+.textcenter{
+  text-align: center;
+  font-size: 10px;
+  font-family: 'Merriweather', sans-serif;
+  font-weight: lighter;
+
+}
+.searchbar{
+  text-align: center;
+}
+.last{
+  background-color:#f6f6ef; 
+}
